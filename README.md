@@ -3,6 +3,8 @@
 ## Project setup
 ```
 npm install
+
+If run ´vue add unit-jest` doesn't work, try this: run `npm install -g @vue/cli`
 ```
 
 ### Compiles and hot-reloads for development
